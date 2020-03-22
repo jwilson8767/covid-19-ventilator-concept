@@ -1,8 +1,18 @@
-#COVID-19 Ventilator Concept
+# COVID-19 Ventilator Concept
 This is a ventilator system concept that I think solves several of the major challenges presented (especially cost and material availability), but will need a lot of prototyping to determine if it's viable. DISCLAIMER: I have no medical, engineering (except the software kind), or manufacturing experience and am simply presenting this concept for your consideration.
 
-##Intermittent positive-pressure ventilation to two patients
-This ventilator concept is designed to regulate approximately 3.6L of air (IPPV) to **two** patients. It includes only two components, a reserve canister / cylinder and a valve manifold. In this concept I've sized the canister to use readily available 6in PVC pipe (with minimally modified end caps) and a free-floating chamber separation plug / seal (not sure the proper name). I arbitrarily chose 2cm diameter tubes for my concept, but any size should be possible with minimal adaptation. The valve manifold is designed to be CNC machined from a single piece of stock material (reductive manufacturing), but has additional parts for each valve. Rotating half-circle valves are actuated by a small electric motor (that should have speed controls!). These valves may not work at all as I have no experience with pneumatic valves, but the real concept here is to 1) centralize parts requiring precision to as few parts as possible and 2) synchronize the four one-way valves (V1-4) so that air is flowing through V1 and V4 at the same time, then V2 and V3, and back to V1 and V3, such that the free-floating plug alternates back and forth in the cylinder.
+## Intermittent positive-pressure ventilation to two patients
+This ventilator concept is designed to regulate approximately 3.6L of air (IPPV) to **two** patients. It includes only two components: 
+
+##### A reserve canister / cylinder (Component A)
+
+![Component A](/Component A.png)
+
+##### A valve manifold (Component B)
+
+![Component B](/Component B.png)
+ 
+ In this concept I've sized the canister to use readily available 6in PVC pipe (with minimally modified end caps) and a free-floating chamber separation plug / seal (not sure the proper name). I arbitrarily chose 2cm diameter tubes for my concept, but any size should be possible with minimal adaptation. The valve manifold is designed to be CNC machined from a single piece of stock material (reductive manufacturing), but has additional parts for each valve. Rotating half-circle valves are actuated by a small electric motor (that should have speed controls!). These valves may not work at all as I have no experience with pneumatic valves, but the real concept here is to 1) centralize parts requiring precision to as few parts as possible and 2) synchronize the four one-way valves (V1-4) so that air is flowing through V1 and V4 at the same time, then V2 and V3, and back to V1 and V3, such that the free-floating plug alternates back and forth in the cylinder.
 
 A few dimensions I baked into this design that will definitely need to be reviewed by a medical professional:
 - Tube diameter (currently 2cm)
@@ -33,7 +43,7 @@ This ventilator concept is only concerned with providing positive pressure for i
 ## Next steps
 I don't have any plans to attempt to build this ventilator myself, but offer it up to the world in the hope that it *inspires* (pun intended) someone out there. Please use it in your hackathon or however! If you have any questions please open an issue on this repository.
 
-##LICENSE AND DISCLAIMER
+## LICENSE AND DISCLAIMER
 Copyright 2020 jwilson8767 on GitHub
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
