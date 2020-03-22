@@ -6,7 +6,7 @@ This ventilator concept is designed to regulate approximately 3.6L of air (IPPV)
 
 ##### A reserve canister / cylinder (Component A)
 
-![Component A]("/Component%20A.png")
+![Component A](/Component%20A.png)
 
 ##### A valve manifold (Component B)
 
