@@ -1,6 +1,9 @@
 # COVID-19 Ventilator Concept
 This is a ventilator system concept that I think solves several of the major challenges presented (especially cost and material availability), but will need a lot of prototyping to determine if it's viable. DISCLAIMER: I have no medical, engineering (except the software kind), or manufacturing experience and am simply presenting this concept for your consideration.
 
+## Communication
+Please direct input / feedback for this concept to the github issues tab. For Chat with people around the world working on the Agorize ventilator challenge check out this Discord room: https://discord.gg/4T2EGjh
+
 ## Intermittent positive-pressure ventilation to two patients
 This ventilator concept is designed to regulate approximately 3.6L of air (IPPV) to **two** patients. It includes only two components: 
 
