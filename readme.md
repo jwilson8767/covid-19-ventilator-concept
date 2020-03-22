@@ -6,11 +6,11 @@ This ventilator concept is designed to regulate approximately 3.6L of air (IPPV)
 
 ##### A reserve canister / cylinder (Component A)
 
-![Component A](/Component A.png)
+![Component A]("/Component%20A.png")
 
 ##### A valve manifold (Component B)
 
-![Component B](/Component B.png)
+![Component B](/Component%20B.png)
  
  In this concept I've sized the canister to use readily available 6in PVC pipe (with minimally modified end caps) and a free-floating chamber separation plug / seal (not sure the proper name). I arbitrarily chose 2cm diameter tubes for my concept, but any size should be possible with minimal adaptation. The valve manifold is designed to be CNC machined from a single piece of stock material (reductive manufacturing), but has additional parts for each valve. Rotating half-circle valves are actuated by a small electric motor (that should have speed controls!). These valves may not work at all as I have no experience with pneumatic valves, but the real concept here is to 1) centralize parts requiring precision to as few parts as possible and 2) synchronize the four one-way valves (V1-4) so that air is flowing through V1 and V4 at the same time, then V2 and V3, and back to V1 and V3, such that the free-floating plug alternates back and forth in the cylinder.
 
