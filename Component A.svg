@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2676 3770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Component-A" serif:id="Component A" transform="matrix(0.226513,0,0,0.319177,0,0)">
+        <rect x="0" y="0" width="11811" height="11811" style="fill:none;"/>
+        <g transform="matrix(11.5371,0,0,5.56431,-10349.4,-7198.15)">
+            <rect x="960.501" y="1694.89" width="688.786" height="1330.07" style="fill:rgb(185,185,185);"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,0,0)">
+            <path d="M1965.79,774.325L2043.58,743.482" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,838.863,-58.5215)">
+            <text x="665.166px" y="2810.75px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Chamber B</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,591.657,448.665)">
+            <text x="721.203px" y="1191.93px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Chamber <tspan x="1082.49px " y="1191.93px ">A</tspan></text>
+        </g>
+        <g transform="matrix(11.5371,0,0,0.417323,-10349.4,6356.98)">
+            <rect x="960.501" y="1694.89" width="688.786" height="1330.07" style="fill:rgb(61,61,61);"/>
+        </g>
+        <g transform="matrix(8.93299,0,0,3.13306,-9577.55,-2714.62)">
+            <rect x="1672.73" y="3941.29" width="116.742" height="310.461" style="fill:rgb(192,0,0);"/>
+        </g>
+        <g transform="matrix(8.93299,0,0,3.13306,-9577.55,-11088.2)">
+            <rect x="1672.73" y="3941.29" width="116.742" height="310.461" style="fill:rgb(192,0,0);"/>
+        </g>
+        <g transform="matrix(8.93299,0,0,3.13306,-11939.7,-2714.62)">
+            <rect x="1672.73" y="3941.29" width="116.742" height="310.461" style="fill:rgb(192,0,0);"/>
+        </g>
+        <g transform="matrix(8.93299,0,0,3.13306,-11939.7,-11088.2)">
+            <rect x="1672.73" y="3941.29" width="116.742" height="310.461" style="fill:rgb(192,0,0);"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-4104.4,-2218.78)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">From V1</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,1639.39,-2218.78)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">T<tspan x="1243.59px 1289.94px " y="1268.62px 1268.62px ">o </tspan>V3</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-3767.72,6301.6)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">From V2</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,1640.46,6300.84)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">T<tspan x="1243.59px 1289.94px " y="1268.62px 1268.62px ">o </tspan>V4</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-600.456,6901.21)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V<tspan x="1252.91px 1299.26px " y="1268.62px 1268.62px ">ol</tspan>ume</text>
+            <text x="1201.92px" y="1354.68px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Adj screw</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-600.456,-3301.05)">
+            <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V<tspan x="1252.91px 1299.26px " y="1268.62px 1268.62px ">ol</tspan>ume</text>
+            <text x="1201.92px" y="1354.68px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Adj screw</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-5704.16,-2714.62)">
+            <g transform="matrix(1,0,0,1,35.9238,-21.2337)">
+                <rect x="2286.01" y="3828.53" width="71.848" height="267.993" style="fill:rgb(77,77,77);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.61494,0,-2506.04)">
+                <rect x="2295.41" y="4075.29" width="126.657" height="21.234" style="fill:rgb(77,77,77);"/>
+            </g>
+        </g>
+        <g transform="matrix(-4.41476,3.83689e-16,-5.40652e-16,-3.13306,15118.5,14634.7)">
+            <g transform="matrix(1,0,0,1,35.9238,-21.2337)">
+                <rect x="2286.01" y="3828.53" width="71.848" height="267.993" style="fill:rgb(77,77,77);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.61494,0,-2506.04)">
+                <rect x="2295.41" y="4075.29" width="126.657" height="21.234" style="fill:rgb(77,77,77);"/>
+            </g>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-5704.16,-2714.62)">
+            <path d="M2358.74,1427.94L2422.07,1185.05" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-5704.16,-2714.62)">
+            <path d="M2390.4,4109.58L2422.07,4278.12" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-5704.16,-2714.62)">
+            <path d="M2406.24,1730.23L3630.77,1730.23L3630.77,3807.29L2394.66,3807.29" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,-5738.13,-2562.27)">
+            <text x="3757.76px" y="2740.37px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">IR<tspan x="3839.59px " y="2740.37px ">V</tspan></text>
+            <text x="3721.04px" y="2823.71px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">~3.6L</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,0,0)">
+            <text x="67.447px" y="102.337px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Comp. <tspan x="331.445px 387.027px " y="102.337px 102.337px ">A:</tspan> IPPV reserve canister</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,0,0)">
+            <text x="2115.88px" y="2262.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Free ﬂoating</text>
+            <text x="2115.88px" y="2346.18px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">plug / seal</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,0,0)">
+            <path d="M1965.79,2343.34L2121.37,2282.94" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,163.99,974.553)">
+            <text x="2011.66px" y="462.253px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">6in x 20cm PVC</text>
+        </g>
+        <g transform="matrix(4.41476,0,0,3.13306,0,0)">
+            <path d="M2416.82,1923.57L2339.1,1923.57" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(2.0189e-16,2.33989,-3.57872,1.55514e-16,10334.6,-5953.06)">
+            <path d="M6832.04,1941.12L6832.04,2011.85L6713.93,1903.04L6832.04,1794.22L6832.04,1864.95L7024.39,1864.95L7024.39,1941.12L6832.04,1941.12Z" style="fill:none;stroke:black;stroke-width:10.69px;"/>
+        </g>
+        <g transform="matrix(-2.0189e-16,2.33989,3.57872,1.55514e-16,-921.979,-14326.7)">
+            <path d="M6832.04,1941.12L6832.04,2011.85L6713.93,1903.04L6832.04,1794.22L6832.04,1864.95L7024.39,1864.95L7024.39,1941.12L6832.04,1941.12Z" style="fill:none;stroke:black;stroke-width:10.69px;"/>
+        </g>
+        <g transform="matrix(2.0189e-16,-2.33989,3.57872,1.55514e-16,-921.979,26193.1)">
+            <path d="M6832.04,1941.12L6832.04,2011.85L6713.93,1903.04L6832.04,1794.22L6832.04,1864.95L7024.39,1864.95L7024.39,1941.12L6832.04,1941.12Z" style="fill:none;stroke:black;stroke-width:10.69px;"/>
+        </g>
+        <g transform="matrix(-2.0189e-16,-2.33989,-3.57872,1.55514e-16,10334.6,17819.5)">
+            <path d="M6832.04,1941.12L6832.04,2011.85L6713.93,1903.04L6832.04,1794.22L6832.04,1864.95L7024.39,1864.95L7024.39,1941.12L6832.04,1941.12Z" style="fill:none;stroke:black;stroke-width:10.69px;"/>
+        </g>
+    </g>
+</svg>

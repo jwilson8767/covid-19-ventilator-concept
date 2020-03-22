@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3360 4156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3249,-4465)">
+        <g id="Component-B-manifold-base" serif:id="Component B manifold base" transform="matrix(0.284456,0,0,0.351766,3249.18,4465.76)">
+            <rect x="0" y="0" width="11811" height="11811" style="fill:none;"/>
+            <g transform="matrix(9.22425,0,0,7.31724,-6008.6,-11114.3)">
+                <rect x="960.501" y="1694.89" width="688.786" height="1330.07" style="fill:rgb(185,185,185);"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-1204.81,-955.536)">
+                <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V1</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-428.648,2140.82)">
+                <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V3</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-1223.98,383.598)">
+                <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V2</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-428.219,3448.56)">
+                <text x="1201.92px" y="1268.62px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">V4</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-6.40465,0)">
+                <text x="67.447px" y="102.337px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">Comp. B: V<tspan x="487.328px 533.674px " y="102.337px 102.337px ">al</tspan>ve manifold, manifold base</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M4302.99,5435.89L4302.99,5460.74L4806.88,5460.74L4806.88,5489.41C4935.48,5489.41 5045.82,5568.19 5092.23,5680.08L5867.55,5680.08L5867.55,5916.3L5092.23,5916.3C5045.82,6028.19 4935.48,6106.97 4806.88,6106.97L4806.88,6152.44L4302.99,6152.44L4302.99,6174.83L4060.25,6174.83L4060.25,5891.37L4302.99,5891.37L4302.99,5916.22L4521.5,5916.22C4506.42,5879.84 4498.1,5839.98 4498.1,5798.19C4498.1,5762.74 4504.09,5728.68 4515.1,5696.96L4302.99,5696.96L4302.99,5719.35L4060.25,5719.35L4060.25,5435.89L4302.99,5435.89Z" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M4255.36,6509.39L4498.1,6509.39L4498.1,6533.01L5116.08,6533.01C5115.8,6527.65 5115.66,6522.25 5115.66,6516.81C5115.66,6346.39 5254.02,6208.03 5424.44,6208.03C5594.87,6208.03 5733.23,6346.39 5733.23,6516.81C5733.23,6522.25 5733.09,6527.65 5732.81,6533.01L5867.55,6533.01L5867.55,6769.23L5602.25,6769.23C5551.96,6804.73 5490.62,6825.6 5424.44,6825.6C5358.27,6825.6 5296.93,6804.73 5246.64,6769.23L4498.1,6769.23L4498.1,6792.85L4255.36,6792.85L4255.36,6769.23L4060.25,6769.23L4060.25,6533.01L4255.36,6533.01L4255.36,6509.39Z" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M4255.36,7241.94L4255.36,7219.55L4060.25,7219.55L4060.25,6983.33L4255.36,6983.33L4255.36,6958.47L4498.1,6958.47L4498.1,6983.33L4677.4,6983.33C4716.77,6965.09 4760.65,6954.91 4806.88,6954.91C4853.12,6954.91 4896.99,6965.09 4936.36,6983.33L5867.55,6983.33L5867.55,7219.55L5112.53,7219.55C5114.59,7233.98 5115.66,7248.71 5115.66,7263.69C5115.66,7434.11 4977.3,7572.47 4806.88,7572.47C4636.46,7572.47 4498.1,7434.11 4498.1,7263.69C4498.1,7248.71 4499.17,7233.98 4501.24,7219.55L4498.1,7219.55L4498.1,7241.94L4255.36,7241.94Z" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-13885.7,-1279.39)">
+                <text x="5651.29px" y="1471.08px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">R<tspan x="5709.96px 5765.54px " y="1471.08px 1471.08px ">V1</tspan></text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-14413.9,2772.43)">
+                <text x="5651.29px" y="1471.08px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">R<tspan x="5709.96px 5765.54px " y="1471.08px 1471.08px ">V3</tspan></text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-12850.1,638.135)">
+                <text x="5651.29px" y="1471.08px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;">R<tspan x="5709.96px 5765.54px " y="1471.08px 1471.08px ">V2</tspan></text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-13226.7,-11625.4)">
+                <text x="3938px" y="6485.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Must be circular</text>
+                <text x="3938px" y="6535.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">proﬁle for ball valve</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-13226.7,-14634.5)">
+                <text x="3938px" y="6485.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Must be circular</text>
+                <text x="3938px" y="6535.04px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">proﬁle for ball valve</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11394.9,-12695.2)">
+                <rect x="4013.27" y="6911.97" width="435.125" height="351.717" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11394.9,-15704.3)">
+                <rect x="4013.27" y="6911.97" width="435.125" height="351.717" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11394.9,-13940.7)">
+                <rect x="4013.27" y="6911.97" width="435.125" height="351.717" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11394.9,-16949.8)">
+                <rect x="4013.27" y="6911.97" width="435.125" height="351.717" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M3853.44,6873.46L4021.09,6779.26" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-15704.3)">
+                <path d="M3853.44,6873.46L4021.09,6779.26" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M3853.44,6873.46L4021.09,6953.83" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-15704.3)">
+                <path d="M3853.44,6873.46L4021.09,6953.83" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6602.06,-12589.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-5247.73,-12589.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-5247.73,-11716.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-9809.69,-11511.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-9809.69,-13948.7)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-9809.69,-15378.2)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-9809.69,-16804.2)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6206.13,-17896)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6206.13,-19424.5)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6907.16,-16647.4)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-9809.69,-20634.4)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-4263.78,-20634.4)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-4263.78,-11511.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-4263.78,-15347.4)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-4263.78,-17234.4)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6206.13,-14021)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(2.62886,0,0,2.83504,-6602.06,-11716.6)">
+                <ellipse cx="4963.9" cy="7844.69" rx="43.435" ry="32.569" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-12158.4,-12547.1)">
+                <text x="5169.56px" y="7983.45px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Mounting holes for motor?</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-8682.66,-12348.6)">
+                <text x="5169.56px" y="7983.45px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Circles denote notional</text>
+                <text x="5183.45px" y="8033.45px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">placement of screws to</text>
+                <text x="5183.45px" y="8083.45px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">join face plate to base</text>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M5195.8,8049.9L5083.17,8135.03" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M5435.94,8135.03L5340.52,8049.9" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M5083.17,7892.91L5195.8,7990.27" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M5435.94,7892.91L5340.52,7990.27" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(3.51548,0,0,2.8428,-11422.4,-12695.2)">
+                <path d="M5778.97,8215.93L5921.27,8142.46" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
